@@ -9,7 +9,7 @@
     In each technology folder there is a readme that will show the error and the resolution of the problem.
 </div>
 
-## <p align='center'> Technologies  </p> 
+## <p align='center'> Technologies  🚀 </p> 
 
 <div align='center'>
 
