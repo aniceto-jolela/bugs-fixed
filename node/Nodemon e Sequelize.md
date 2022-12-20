@@ -1,7 +1,7 @@
 # <p align='center'> Nodemon and sequelize installation error </p>
 
 
-<p style='font-size:25px'> Bug 🐞 </p>
+## <p align='center'> Bug 🐞 </p>
 
 ```c
 npm install nodemon
@@ -16,24 +16,23 @@ npm ERR! network 'proxy' config is set properly. See: 'npm help config'
 ```
 
 
-# Solution 🎉
+## <p align='center'> Solution 🎉 </p>
 
-Run below command in npm command prompt or Visual Studio Code terminal.
+<p align='center'>  Run below command in npm command prompt or Visual Studio Code terminal.</p>
 
 - **Step 1**
- 
+ ```
     npm config rm proxy
-
     npm config rm https-proxy
-
+```
 - **Step 2**
- 
+ ```
     registry.npmjs.org
-
+```
 - **Step 3**
-
+```
     registry.npmjs.org registry.npmjs.org:443
-
+```
 #
 
 ###### Author : Aniceto Jolela 🥰
