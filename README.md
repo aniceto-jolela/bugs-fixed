@@ -16,11 +16,11 @@
 | Name            | Link |
 |-----------------|:----------:|
 | `React`         | [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html) |
-| `Next`          | [Next]() |
+| `Next`          | [Next](https://nextjs.org/docs/getting-started) |
 | `Node`          | [Node](https://nodejs.org/en/) |
-| `Flutter`       | [Flutter]() |
-| `Mongodb`       | [Mongodb]() |
-| `Linux`         | [Linux]() |
+| `Flutter`       | [Flutter](https://docs.flutter.dev/get-started/install) |
+| `Mongodb`       | [Mongodb](https://www.mongodb.com/home) |
+| `Linux`         | [Linux](https://www.linux.org/) |
 
 </div>
 
