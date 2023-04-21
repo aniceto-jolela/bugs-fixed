@@ -22,7 +22,7 @@
 | `Nodejs`          | [Node](https://nodejs.org/en/) |
 | `Flutter`       | [Flutter](https://docs.flutter.dev/get-started/install) |
 | `Mongodb`       | [Mongodb](https://www.mongodb.com/home) |
-| `Python`        | [Python](https://www.python.org/ |
+| `Python`        | [Python](https://www.python.org/) |
 | `Linux`         | [Linux](https://www.linux.org/) |
 
 </div>
