@@ -14,16 +14,17 @@
 
 <div align='center'>
 
-| Name            | Link |
-|-----------------|:----------:|
-| `React`         | [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html) |
-| `ReactNative`   | [ReactNative](https://reactnative.dev/) |
-| `Next`          | [Next](https://nextjs.org/docs/getting-started) |
-| `Nodejs`          | [Node](https://nodejs.org/en/) |
-| `Flutter`       | [Flutter](https://docs.flutter.dev/get-started/install) |
-| `Mongodb`       | [Mongodb](https://www.mongodb.com/home) |
-| `Python`        | [Python](https://www.python.org/) |
-| `Linux`         | [Linux](https://www.linux.org/) |
+| Name          |                              Link                               |
+|---------------|:---------------------------------------------------------------:|
+| `React`       | [Reactjs](https://reactjs.org/docs/create-a-new-react-app.html) |
+| `ReactNative` |             [ReactNative](https://reactnative.dev/)             |
+| `Next`        |         [Next](https://nextjs.org/docs/getting-started)         |
+| `Nodejs`      |                 [Node](https://nodejs.org/en/)                  |
+| `Flutter`     |     [Flutter](https://docs.flutter.dev/get-started/install)     |
+| `Mongodb`     |             [Mongodb](https://www.mongodb.com/home)             |
+| `Python`      |                [Python](https://www.python.org/)                |
+| `Django`      |            [Django](https://docs.djangoproject.com/)            |
+| `Linux`       |                 [Linux](https://www.linux.org/)                 |
 
 </div>
 
